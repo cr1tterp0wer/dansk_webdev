@@ -1,0 +1,44 @@
+body{
+  background-color: darkgrey;
+}
+ol{
+  border: 5px solid #1f4a8f;
+}
+
+
+/* Custom Styling */
+
+/* Anime Image-Description Listsings 'al-' */
+#AnimeListing{
+  border: 5px solid orange;
+}
+
+.anime-listing{
+  display:flex;
+  background-color: pink;
+  padding:10px;
+}
+
+.al-image-container{
+  background-color: blue;
+}
+
+.al-image-container img{
+  width:200px;
+}
+
+.al-image-container p.al-image-title{
+  text-align:center;
+}
+
+.al-image-container p.al-image-title a{
+  color:white;
+}
+
+.al-desc-container{
+  background-color: yellow;
+  height:100px;
+}
+
+
+
